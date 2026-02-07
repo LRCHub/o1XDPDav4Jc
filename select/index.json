@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ソー・シック",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:24:09.591980Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Sick",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_So_Sick_Ne-Yo.txt"
+    }
+  ]
+}
